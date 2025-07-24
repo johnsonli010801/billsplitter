@@ -1,3 +1,8 @@
+/**
+ * Developer: Junpeng Li
+ * Contact: junpengli0801@gmail.com
+ */
+
 import React, { useState, useEffect } from 'react';
 import { Plus, Trash2, Users, Receipt, Calculator, Share, PartyPopper, Gift, Coffee } from 'lucide-react';
 

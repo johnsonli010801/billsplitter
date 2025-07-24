@@ -1,3 +1,7 @@
+##
+## Developer: Junpeng Li
+## Contact: junpengli0801@gmail.com
+##
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
