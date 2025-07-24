@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Plus, Trash2, Users, Receipt, Calculator, Share, PartyPopper, Gift, Coffee } from 'lucide-react';
 
-const API_BASE_URL = 'https://billsplitter-production.up.railway.app/';
+const API_BASE_URL = 'https://billsplitter-production.up.railway.app/api';
 
 export default function BillSplitterApp() {
   const [currentEvent, setCurrentEvent] = useState(null);
